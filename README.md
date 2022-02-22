@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GaurangHiHoon
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React.js💞️
 - 📫 How to reach me gaurang013pant@gmail.com
 
 <!---
