@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React.js
 - 💞️ On a journey from "Mujse coding nahi hogi" to "Bhai itna bhi tough nahi hai yaar!"
-- 🌟 What motivates me is "Life me kuch ukhadna hai"
+- 🌟 What motivates me is "Life me kuch bada karna hai"
 - 📫 How to reach me gaurang013pant@gmail.com
 
 <!---
